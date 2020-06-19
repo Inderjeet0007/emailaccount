@@ -1,0 +1,17 @@
+{
+  "email": [
+    { "id": 1, "email": "inder@flock.com" },
+    { "id": 2, "title": jeet@flock.com" },
+    { "id": 3, "title": "manish@flock.com" }
+  ],
+  "status": [
+    { "status": "active"},
+    { "status": "active"},
+    { "status": "inactive"}
+  ],
+  "quota":[
+   { "used": "0.3"}
+   { "used": "1.5"}
+   { "used": "2.4"}
+  ]
+}
