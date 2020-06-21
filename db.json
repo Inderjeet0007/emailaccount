@@ -1,17 +1,62 @@
+[
 {
-  "email": [
-    { "id": 1, "email": "inder@flock.com" },
-    { "id": 2, "email": "jeet@flock.com" },
-    { "id": 3, "email": "manish@flock.com" }
-  ],
-  "status": [
-    { "status": "active"},
-    { "status": "active"},
-    { "status": "inactive"}
-  ],
-  "quota":[
-   { "used": "0.3"},
-   { "used": "1.5"},
-   { "used": "2.4"}
-  ]
+    "id": 1,
+    "email": "marshal@classicbrands.com",
+    "status": 1,
+    "quota": "74"
+},
+{
+    "id": 2,
+    "email": "aaron@classicbrands.com",
+    "status": 1,
+    "quota": "92"
+},
+{
+    "id": 3,
+    "email": "satyanarayan.g@classicbrands.com",
+    "status": 1,
+    "quota": "38"
+},
+{
+    "id": 4,
+    "email": "Balasubramaniyan@classicbrands.com",
+    "status": 0,
+    "quota": "28"
+},
+{
+    "id": 5,
+    "email": "zak@classicbrands.com",
+    "status": 1,
+    "quota": "0"
+},
+{
+    "id": 6,
+    "email": "shailendra.salekar@classicbrands.com",
+    "status": 1,
+    "quota": "45"
+},
+{
+    "id": 7,
+    "email": "saurabh.s@classicbrands.com",
+    "status": 1,
+    "quota": "34"
+},
+{
+    "id": 8,
+    "email": "vaishkh.s@classicbrands.com",
+    "status": 1,
+    "quota": "23"
+},
+{
+    "id": 9,
+    "email": "ajunkya.k@classicbrands.com",
+    "status": 1,
+    "quota": "67"
+},
+{
+    "id": 10,
+    "email": "support.internalexternal@classicbrands.com",
+    "status": 0,
+    "quota": "4"
 }
+]
